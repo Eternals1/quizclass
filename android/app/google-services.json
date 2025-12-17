@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981641180238",
+    "project_id": "quizclassroomapp",
+    "storage_bucket": "quizclassroomapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981641180238:android:8eb9745ab089007e623f1f",
+        "android_client_info": {
+          "package_name": "com.example.quiz_class_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYzg9HvFZXawWZClior-vceMZeQXywX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

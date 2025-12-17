@@ -1,5 +1,7 @@
 ## Adelia Sakinah Pane
 
+## NIM : 231402026
+
 # 🎓 QuizClass - Platform Kolaborasi Kuis & Kelas
 
 QuizClass adalah aplikasi mobile berbasis Flutter yang menggabungkan fitur manajemen kelas ala Google Classroom dengan interaktivitas kuis ala Quizizz. Dibangun menggunakan Firebase sebagai backend untuk sinkronisasi data secara real-time.

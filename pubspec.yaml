@@ -17,9 +17,26 @@ dependencies:
 
 
 dev_dependencies:
+  flutter_native_splash: ^2.3.1
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon_app.png"
+  adaptive_icon_background: "#2575FC" # Warna background untuk Android
+  adaptive_icon_foreground: "assets/images/icon_app.png" # Gambar foreground untuk Android
+
+flutter_native_splash:
+  color: "#2575FC" # Warna background splash
+  image: "assets/images/icon_app.png" # Logo yang muncul di tengah
+  android_12:
+    image: "assets/images/icon_app.png"
+    color: "#2575FC"
+fullscreen: true
 
 flutter:
   uses-material-design: true
